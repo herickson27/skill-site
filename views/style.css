@@ -1,0 +1,22 @@
+
+body {
+    font-family: 'Assistant', sans-serif;
+    align-content: space-between;
+
+}
+h1 {
+    background-color: whitesmoke;
+    padding:10px;
+    justify-content: center;
+    border: solid 3px darkgrey;
+    width: 300px;
+    align-items: center;
+}
+p {
+    padding: 20px;
+    margin: auto;
+    background-color: rgb(208, 211, 187);
+}
+
+
+

@@ -1,1 +1,2 @@
 node_modules
+# never want to check node modules into the git repository. Takes up too much space. 
